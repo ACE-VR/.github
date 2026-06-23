@@ -118,17 +118,55 @@ Meta SDK의 **Grab / Poke 인터랙션**을 활용하여 사용자가 실제 도
 </table>
 
 <br/>
+
 ---
 
-### 4. 결과물 저장 및 서버 전송
+### 4. 페인팅 초기화 기능
+
+페인팅된 오브젝트를 초기 상태로 되돌리는 초기화 기능을 구현했습니다.  
+사용자는 색칠 결과가 마음에 들지 않거나 다른 색상 조합을 시도하고 싶을 때, 처음부터 다시 페인팅할 수 있습니다.
+
+<p align="center">
+  <img width="600" alt="페인팅 초기화 기능" src="https://github.com/user-attachments/assets/e5bf596b-9e50-4b80-b06b-81cb26e9e1f4" />
+</p>
+
+---
+
+### 5. 결과물 저장 및 서버 전송
 
 페인팅된 텍스처를 파일로 저장하고, `UnityWebRequest`를 활용해 서버로 전송하는 구조를 구현했습니다.  
 이를 통해 사용자가 완성한 결과물을 VR 전시장에 반영할 수 있도록 확장했습니다.
 
-- 페인팅 결과 텍스처 저장
-- 서버 업로드 기능 구현
-- 전시장 시스템과 연동 가능한 구조 설계
+<br/>
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>텍스처 저장 버튼</b><br/>
+      <sub>현재 페인팅 결과를 이미지 파일로 저장</sub>
+    </td>
+    <td align="center" width="50%">
+      <b>서버 전송 버튼</b><br/>
+      <sub>저장된 결과물을 서버로 업로드</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="100%" alt="텍스처 저장 버튼" src="https://github.com/user-attachments/assets/111cfb57-acb3-4181-b301-9ea40af30c71" />
+    </td>
+    <td>
+      <img width="100%" alt="서버 전송 버튼" src="https://github.com/user-attachments/assets/206948b0-2239-4241-bdbe-32f86aafa6b6" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+| 기능 | 설명 |
+|---|---|
+| 텍스처 저장 | 페인팅된 오브젝트의 텍스처를 이미지 파일로 저장 |
+| 서버 전송 | `UnityWebRequest`를 활용해 저장된 결과물을 서버로 업로드 |
+| 확장 구조 | 업로드된 결과물을 전시장 시스템에서 활용할 수 있도록 연동 가능한 구조로 설계 |
 ---
 
 ## 시스템 흐름
