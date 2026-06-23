@@ -75,10 +75,11 @@ Meta SDK의 **Grab / Poke 인터랙션**을 활용하여 사용자가 실제 도
 
 | 도구 | 설명 |
 |---|---|
-| 손가락 | 손가락으로 직접 터치하듯 오브젝트 표면을 색칠 |
-| 스프레이 | 손으로 잡고 누르는 포즈를 취하면 파티클 분사 |
-| 물총 | 발사형 입력을 통해 색상 분사 |
-| 물감폭탄 | 넓은 범위에 색상을 입히는 범위형 도구 |
+| 페인트 폭탄 | 넓은 범위에 색상을 입히는 범위형 도구 |
+| 페인트 건 | 발사형 입력을 통해 색상 분사 |
+| 페인트 스프레이 | 손으로 잡고 누르는 포즈를 취하면 파티클 분사 |
+| 페인트 손가락 | 손가락으로 직접 터치하듯 오브젝트 표면을 색칠 |
+
 
 <br/>
 
@@ -101,7 +102,7 @@ Meta SDK의 **Grab / Poke 인터랙션**을 활용하여 사용자가 실제 도
   </tr>
   <tr>
     <td>
-      <img width="100%" alt="페인트 폭탄" src="https://github.com/user-attachments/assets/b63c1835-5d1f-4d38-89b4-b467dea8f1bd" />
+      <img width="100%" alt="물감폭탄" src="https://github.com/user-attachments/assets/b63c1835-5d1f-4d38-89b4-b467dea8f1bd" />
     </td>
     <td>
       <img width="100%" alt="페인트 건" src="https://github.com/user-attachments/assets/e8362801-2df8-4dcc-a58e-c9a0ac1c71a3" />
