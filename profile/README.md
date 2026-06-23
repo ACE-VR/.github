@@ -95,6 +95,9 @@ Meta SDK의 **Grab / Poke 인터랙션**을 활용하여 사용자가 실제 도
     <td align="center">
       <b>페인트 스프레이</b>
     </td>
+    <td align="center">
+      <b>페인트 손가락</b>
+    </td>
   </tr>
   <tr>
     <td>
@@ -105,6 +108,9 @@ Meta SDK의 **Grab / Poke 인터랙션**을 활용하여 사용자가 실제 도
     </td>
     <td>
       <img width="100%" alt="페인트 스프레이" src="https://github.com/user-attachments/assets/c94f9236-02ea-43a4-a6f7-b2dbea70151f" />
+    </td>
+    <td>
+      <img width="100%" alt="페인트 손가락" src="https://github.com/user-attachments/assets/f992eb49-9653-48f7-b68d-8d2d9ba9e864" />
     </td>
   </tr>
 </table>
