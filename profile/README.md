@@ -87,17 +87,21 @@ Meta SDK의 **Grab / Poke 인터랙션**을 활용하여 사용자가 실제 도
 이를 통해 단순 감상이 아닌, 사용자가 직접 선택하고 색칠하는 VR 페인팅 경험을 제공하였습니다.
 <table>
   <tr>
-    <td align="center">
-      <b>페인트 폭탄</b>
+    <td align="center" width="25%">
+      <b>페인트 폭탄</b><br/>
+      <sub>넓은 범위에 색상을 입히는 범위형 도구</sub>
     </td>
-    <td align="center">
-      <b>페인트 건</b>
+    <td align="center" width="25%">
+      <b>페인트 건</b><br/>
+      <sub>발사형 입력을 통해 색상 분사</sub>
     </td>
-    <td align="center">
-      <b>페인트 스프레이</b>
+    <td align="center" width="25%">
+      <b>페인트 스프레이</b><br/>
+      <sub>잡고 누르는 포즈로 파티클 분사</sub>
     </td>
-    <td align="center">
-      <b>페인트 손가락</b>
+    <td align="center" width="25%">
+      <b>페인트 손가락</b><br/>
+      <sub>손가락으로 직접 표면 색칠</sub>
     </td>
   </tr>
   <tr>
