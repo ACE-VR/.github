@@ -6,7 +6,7 @@
 <br/>
 
 <p align="center">
-  <img width="900" alt="페인팅 오브젝트 및 도구 선택 UI" src="https://github.com/user-attachments/assets/a4d417f3-a9c2-49b1-8ad3-da52c5d78a31" />
+  <img width="500" alt="페인팅 오브젝트 및 도구 선택 UI" src="https://github.com/user-attachments/assets/a4d417f3-a9c2-49b1-8ad3-da52c5d78a31" />
 </p>
 
 ---
