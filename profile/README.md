@@ -9,6 +9,7 @@
   <img width="500" alt="페인팅 오브젝트 및 도구 선택 UI" src="https://github.com/user-attachments/assets/a4d417f3-a9c2-49b1-8ad3-da52c5d78a31" />
 </p>
 [시연영상 보러가기](https://drive.google.com/file/d/1KOBWu-WBkeJ4npNvVBOGWZyHcTP1mY-f/view?usp=drive_link)
+
 ---
 
 ## 프로젝트 소개
